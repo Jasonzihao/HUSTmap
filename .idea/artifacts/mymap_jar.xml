@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mymap:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/mymap_jar</output-path>
+    <root id="archive" name="mymap.jar">
+      <element id="module-output" name="HUSTmap" />
+    </root>
+  </artifact>
+</component>

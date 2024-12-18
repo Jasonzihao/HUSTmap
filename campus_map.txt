@@ -1,0 +1,28 @@
+27
+1 南一楼 8 9 校史馆 西十二 SchoolBuilding
+2 电信学院 15 9 东九楼 启明门 中心操场 CulturalSpot
+3 中心操场 12 9 蜜雪冰城 醉晚亭 南一楼 SchoolBuilding
+4 工训中心 22  5  韵苑宿舍 东操场  东十七楼 SchoolBuilding
+5 附属中学 17 3  东九楼 韵苑食堂  SchoolBuilding
+6 韵苑食堂 19 4 韵苑宿舍 SchoolBuilding
+7 校医院  7 3 喻家山 科技楼 SchoolBuilding
+8 管理学院 10 5 蜜雪冰城 校医院 SchoolBuilding
+9 蜜雪冰城 15 4  附属中学  CulturalSpot
+10 东十七楼 20 7 工训中心 SchoolBuilding
+11 图书馆 7 7 校史馆 CulturalSpot
+12 校史馆 8 8  醉晚亭 CulturalSpot
+13 西操场 4 7  西十二 紫菘宿舍 CulturalSpot
+14 紫菘宿舍 1 8 西十二 dormitory
+15 东操场 19 6 东九楼 东十七楼 韵苑食堂 CulturalSpot
+16 韵苑宿舍 20 4 韵苑食堂 dormitory
+17 百景园 4 5 西操场 校医院 SchoolBuilding
+18 醉晚亭 11 8 管理学院 CulturalSpot
+19 光电大楼 21  10 东十七楼 东操场 SchoolBuilding
+20 西十二  4 10  西操场 百景园 SchoolBuilding
+21 科技楼 7 6 校史馆 图书馆 百景园 CulturalSpot
+22 喻家湖 19 1 附属中学 韵苑食堂 CulturalSpot
+23 喻家山 10 2 喻园小区 CulturalSpot
+24 东九楼 16 5 附属中学 SchoolBuilding
+25 启明门 18 9 光电大楼 东操场 SchoolBuilding
+26 喻园小区 14 3 喻家山 集贸  附属中学 dormitory
+27 集贸 10 3 校医院 管理学院 喻家山 SchoolBuilding

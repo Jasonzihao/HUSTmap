@@ -1,0 +1,22 @@
+21
+1 自动化学院 8 10 信息中心 中心操场 SchoolBuilding
+2 计算机学院 11 11 信息中心 自动化学院 SchoolBuilding
+3 中心操场 6 11 图书馆 自动化学院 SchoolBuilding
+4 信息中心 12 10 教务处 SchoolBuilding
+5 教务处 11 8 光电大楼  SchoolBuilding
+6 科研处 5 7 醉晚亭 校史馆 SchoolBuilding
+7 计算机学院宿舍  7 3 电信学院宿舍 自动化学院 dormitory
+8 电信学院 9 4 电信学院宿舍 东操场 SchoolBuilding
+9 电信学院宿舍 11 2 韵苑宿舍 dormitory
+10 东十七楼 9 1 电信学院 电信学院宿舍 SchoolBuilding
+11 图书馆 6 5 科研处 CulturalSpot
+12 校史馆 3 8 图书馆 CulturalSpot
+13 西操场 1 7 校史馆 图书馆  CulturalSpot
+14 紫菘宿舍 1 8 西操场 dormitory
+15 东操场 9 7 电信学院宿舍 自动化学院 CulturalSpot
+16 韵苑宿舍 12 4 东操场 dormitory
+17 食堂 5 3 图书馆 计算机学院宿舍 东十七楼 SchoolBuilding
+18 醉晚亭 5 9 学生活动中心 中心操场 CulturalSpot
+19 光电大楼 12 5 韵苑宿舍 SchoolBuilding
+20 厕所 1 10 西操场 中心操场 SchoolBuilding
+21 青年园 2 5 西操场 食堂 CulturalSpot
